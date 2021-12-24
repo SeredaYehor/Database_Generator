@@ -29,3 +29,8 @@ Place of all arrays with data should be correctly setted as in your db.
 >`Input data`
 >
 >`1:Data_Name, 2:Data_Emails, Data_Details`
+
+## About repo
+
+This code requires refaactoring and this generator can't manipulate with every data type of mysql, so that I would be glad, if you would like to modify this repo.
+**Good luck deBUGgers!**
